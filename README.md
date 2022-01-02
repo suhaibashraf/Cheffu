@@ -1,5 +1,5 @@
 # Cheffu
-A mobile and web-based online application to hire chefs near by, you can see their portfolio, rate their services, comment your views, buy secret recipes and fetch live location when chef are hired. It is a good platform for chefs to work online and off hours and its also helpful for those who learn recipes in their free time.
+A mobile and web-based online application that allows you to hire chefs in your area. You can check their portfolio, evaluate their services, leave comments, purchase secret recipes, and get real-time location updates whenever a chef is hired. It's a great platform for chefs to work online in their spare time, and it's also useful for individuals who want to learn new recipes.
 
 ### Technology Used
 PHP (Codeignitor), HTML, CSS and jQuery. 
